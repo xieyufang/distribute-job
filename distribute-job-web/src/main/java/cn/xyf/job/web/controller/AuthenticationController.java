@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * Created by xieyufang on 17/5/3.
+ * @author xieyufang
  */
 @Controller
 public class AuthenticationController {
